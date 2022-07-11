@@ -142,7 +142,7 @@ def data_preprocessing(df):
 
 
 def prediction(data):
-    model = load_model('model2.h5')
+    model = load_model('modelLSTM.h5')
     data = data_preprocessing(data)
     print(len(data))
 
