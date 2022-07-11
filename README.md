@@ -1,5 +1,5 @@
 # prediction-real-estate
- Server side for the Android app for predicting real estate prices for 90 days using LSTM. 
+ The backend for the Android app for predicting real estate prices for 90 days using LSTM. 
  
  prediction.py - model training and forecasting
  
